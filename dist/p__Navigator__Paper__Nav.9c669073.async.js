@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{LmOT:function(g,b,a){"use strict";a.r(b);var d=a("q1tI"),c=a.n(d),e=a("WHYC"),f=function u(){return c.a.createElement("div",null,c.a.createElement(e.c,{to:"/explore/pubmed"}))};b.default=f}}]);
